@@ -1,0 +1,44 @@
+h1 {
+    color: crimson;
+    font-family:sans-serif;
+    margin: 0px 0px 0px 15px;
+}
+
+h2 {
+    color:crimson;
+    font-family:sans-serif;
+    border-bottom: dotted;
+    border-width: 4px;
+    border-color: crimson;
+}
+
+h3 {
+    color:crimson;
+    font-family:sans-serif;
+
+}
+.overview {
+    font-family:italic;
+}
+header {
+    background-color: #eee;
+    padding: 10px;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: silver;
+    
+}
+footer {
+    background-color: #eee;
+    padding: 10px;
+    border-top: solid;
+    border-width: 1px;
+    border-color: silver;
+}
+main {
+    padding: 10px;
+}
+
+body {
+    margin:0;
+}
